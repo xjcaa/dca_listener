@@ -1,0 +1,3 @@
+rpc_url: "https://zeta-eu.rpcpool.com/fe28c9e3-04ee-4992-a521-ed8a20e9e3dc"
+websocket_url: "wss://zeta-eu.rpcpool.com/fe28c9e3-04ee-4992-a521-ed8a20e9e3dc"
+db_url: "postgresql://token_user:password@localhost:5432/token_service" 

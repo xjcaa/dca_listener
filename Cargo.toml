@@ -4,3 +4,13 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+mpl-token-metadata = "5.1.0"
+reqwest = { version = "0.12.9", features = ["json"] }
+serde = "1.0.216"
+serde_json = "1.0.134"
+serde_yaml = "0.9.34"
+solana-client = "2.1.7"
+solana-sdk = "2.1.7"
+spl-token = "7.0.0"
+tokio = "1.42.0"
+tokio-postgres = { version = "0.7.12", features = ["with-serde_json-1"] }
